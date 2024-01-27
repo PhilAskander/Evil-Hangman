@@ -1,9 +1,5 @@
 # The Infamous Evil Hangman Project In C
 
-**Name:** Philopater Askander and Michael Eshak
-
-**Email:** askander.p@northeastern.edu eshak.m@northeastern.edu
-
 ### About/Overview:
 This project implements the classic game of Hangman with a malevolent twist using an AVL (Adelson-Velsky and Landis) tree for word 
 storage and vectors for efficient data manipulation. The game is designed to make it challenging for the player by dynamically 
